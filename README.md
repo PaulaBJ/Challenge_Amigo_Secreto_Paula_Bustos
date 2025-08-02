@@ -26,8 +26,8 @@ Este proyecto es una pequeña aplicación web desarrollada con **HTML**, **CSS**
 
 ```plaintext
 challenge-amigo-secreto_esp-main/
-└──.vscode
-└── assets
+├──.vscode
+├── assets
 ├── index.html
 ├── script.js
 └── style.css
