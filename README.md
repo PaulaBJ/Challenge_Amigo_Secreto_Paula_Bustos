@@ -1,6 +1,6 @@
 # Challenge_Amigo_Secreto_Paula_Bustos
 
-Este proyecto es una pequeña aplicación web desarrollada con **HTML**, **CSS** (opcional) y **JavaScript**, cuyo objetivo es **fortalecer la lógica de programación** mediante un sistema interactivo para agregar amigos y realizar un sorteo aleatorio.
+Este proyecto es una pequeña aplicación web desarrollada con **HTML**, **CSS** y **JavaScript**, cuyo objetivo es **fortalecer la lógica de programación** mediante un sistema interactivo para agregar amigos y realizar un sorteo aleatorio.
 
 ---
 
